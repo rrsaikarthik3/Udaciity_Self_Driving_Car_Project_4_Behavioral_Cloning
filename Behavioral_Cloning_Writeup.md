@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 ### Writeup / README
 
 
-The link to the project is [project code](https://github.com/rrsaikarthik3/Udacity_Self_Driving_Car_Project_4_Behavioral_Cloning/blob/main/model.py)
+The link to the project is [project code](https://github.com/rrsaikarthik3/Udacity_Self_Driving_Car_Project_4_Behavioral_Cloning/blob/main)
 
 
 

@@ -2,7 +2,9 @@
 
 ## Writeup
 
+[//]: # (Image References)
 
+[image1]: ./plot_res.png "Visualization"
 
 **Build a Behvaioral Cloning model to drive around a track**
 
@@ -80,7 +82,8 @@ Batch Size = 32
 Epochs = 5
 
 These hyperparameters were chosen based on an iterative approach in order to find the best validation accuracy.
-
+Here is the result from the training indicating the losses after each epoch
+![alt text][image1]
 
 ### Test a Model to run Autonomously on the Track
 

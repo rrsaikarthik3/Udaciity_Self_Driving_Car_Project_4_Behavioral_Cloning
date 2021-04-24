@@ -4,7 +4,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./plot_res.png "Visualization"
+[image1]: ./Plot_res.png "Visualization"
 
 **Build a Behvaioral Cloning model to drive around a track**
 
